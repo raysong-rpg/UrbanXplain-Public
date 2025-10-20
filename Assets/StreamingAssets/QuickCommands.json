@@ -1,0 +1,28 @@
+{
+  "commands": [
+    {
+      "id": 1,
+      "icon": "[RES]",
+      "icon_color": "#4169E1",
+      "command_en": "Plan a high-quality residential community with plot ratio <=2.5, building density <=25%, green space ratio >=35%, high-rise spacing >=0.4x southern building height, ensuring min. 1-hour sunlight on winter solstice"
+    },
+    {
+      "id": 2,
+      "icon": "[COM]",
+      "icon_color": "#FFD700",
+      "command_en": "Design commercial finance core zone with plot ratio 3.0-4.0, building density 40%, underground parking >=1 space per 100 sqm, building setback from road >=8 meters"
+    },
+    {
+      "id": 3,
+      "icon": "[TOD]",
+      "icon_color": "#FF6347",
+      "command_en": "Create TOD community with plot ratio 2.8-3.5 within 800m of metro station, commercial podiums along arterials, stepped residential heights, 90% coverage by transit stops within 300m"
+    },
+    {
+      "id": 4,
+      "icon": "[ECO]",
+      "icon_color": "#00FF7F",
+      "command_en": "Build 2-star green building community with green space ratio >=40%, energy saving rate 65%, Low-E insulated glass, 30% rooftop solar coverage, full rainwater harvesting system"
+    }
+  ]
+}
